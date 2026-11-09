@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg?v=2" width="100%" alt="Hi, I'm abi-shimoji!" />
+  <img src="./assets/header.svg" width="100%" alt="Hi, I'm abi-shimoji!" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/terminal.svg?v=2" width="100%" alt="whoami → abi-shimoji, engineer @ ABI Inc." />
+  <img src="./assets/terminal.svg" width="100%" alt="whoami → abi-shimoji, engineer @ ABI Inc." />
 </p>
 
 ## 🧑‍💻 About me
