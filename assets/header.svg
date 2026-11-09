@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" width="1000" height="240" role="img" aria-label="Hi, I'm Kaito">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#7f5af0"><animate attributeName="stop-color" values="#7f5af0;#ff6ac1;#ff9f43;#2cb67d;#7f5af0" dur="16s" repeatCount="indefinite"/></stop>
+    <stop offset="1" stop-color="#ff6ac1"><animate attributeName="stop-color" values="#ff6ac1;#ff9f43;#2cb67d;#7f5af0;#ff6ac1" dur="16s" repeatCount="indefinite"/></stop>
+  </linearGradient>
+  <clipPath id="frame"><rect width="1000" height="240" rx="24"/></clipPath>
+  <filter id="shadow" x="-10%" y="-30%" width="120%" height="160%"><feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#000" flood-opacity=".25"/></filter>
+</defs>
+<style>
+  .t { font-family: "Segoe UI", system-ui, -apple-system, "Hiragino Sans", "Helvetica Neue", Arial, sans-serif; fill: #fff; }
+  .hi { font-size: 58px; font-weight: 800; }
+  .sub { font-size: 22px; font-weight: 600; opacity: .92; }
+  .pop { animation: pop .9s cubic-bezier(.2,1.6,.4,1) both; transform-origin: 500px 120px; }
+  .pop2 { animation: pop .9s .25s cubic-bezier(.2,1.6,.4,1) both; transform-origin: 500px 170px; }
+  @keyframes pop { from { opacity: 0; transform: scale(.6); } to { opacity: 1; transform: scale(1); } }
+</style>
+<g clip-path="url(#frame)">
+  <rect width="1000" height="240" fill="url(#bg)"/>
+  <circle cx="0.1" cy="260" r="11.3" fill="#fff" opacity="0">
+  <animate attributeName="cy" values="260;-20" dur="8.31s" begin="-1.75s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.35;.35;0" keyTimes="0;.2;.8;1" dur="8.31s" begin="-1.75s" repeatCount="indefinite"/>
+</circle>
+<circle cx="729.4" cy="260" r="7.8" fill="#fff" opacity="0">
+  <animate attributeName="cy" values="260;-20" dur="8.63s" begin="-6.49s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.35;.35;0" keyTimes="0;.2;.8;1" dur="8.63s" begin="-6.49s" repeatCount="indefinite"/>
+</circle>
+<circle cx="755.1" cy="260" r="7.9" fill="#fff" opacity="0">
+  <animate attributeName="cy" values="260;-20" dur="11.48s" begin="-7.3s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.35;.35;0" keyTimes="0;.2;.8;1" dur="11.48s" begin="-7.3s" repeatCount="indefinite"/>
+</circle>
+<circle cx="816.8" cy="260" r="5.2" fill="#fff" opacity="0">
+  <animate attributeName="cy" values="260;-20" dur="8.99s" begin="-6.36s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.35;.35;0" keyTimes="0;.2;.8;1" dur="8.99s" begin="-6.36s" repeatCount="indefinite"/>
+</circle>
+<circle cx="698" cy="260" r="3.5" fill="#fff" opacity="0">
+  <animate attributeName="cy" values="260;-20" dur="11.47s" begin="-5.37s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.35;.35;0" keyTimes="0;.2;.8;1" dur="11.47s" begin="-5.37s" repeatCount="indefinite"/>
+</circle>
+<circle cx="922.4" cy="260" r="10.3" fill="#fff" opacity="0">
+  <animate attributeName="cy" values="260;-20" dur="6.98s" begin="-3.58s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.35;.35;0" keyTimes="0;.2;.8;1" dur="6.98s" begin="-3.58s" repeatCount="indefinite"/>
+</circle>
+<circle cx="923.2" cy="260" r="9.2" fill="#fff" opacity="0">
+  <animate attributeName="cy" values="260;-20" dur="11.15s" begin="-6.44s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.35;.35;0" keyTimes="0;.2;.8;1" dur="11.15s" begin="-6.44s" repeatCount="indefinite"/>
+</circle>
+<circle cx="912" cy="260" r="11.2" fill="#fff" opacity="0">
+  <animate attributeName="cy" values="260;-20" dur="8.98s" begin="-3.01s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.35;.35;0" keyTimes="0;.2;.8;1" dur="8.98s" begin="-3.01s" repeatCount="indefinite"/>
+</circle>
+<circle cx="837.2" cy="260" r="6" fill="#fff" opacity="0">
+  <animate attributeName="cy" values="260;-20" dur="7.22s" begin="-2.15s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.35;.35;0" keyTimes="0;.2;.8;1" dur="7.22s" begin="-2.15s" repeatCount="indefinite"/>
+</circle>
+<circle cx="428.5" cy="260" r="5.7" fill="#fff" opacity="0">
+  <animate attributeName="cy" values="260;-20" dur="13.5s" begin="-7.52s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.35;.35;0" keyTimes="0;.2;.8;1" dur="13.5s" begin="-7.52s" repeatCount="indefinite"/>
+</circle>
+<circle cx="729.3" cy="260" r="10.9" fill="#fff" opacity="0">
+  <animate attributeName="cy" values="260;-20" dur="6.47s" begin="-1.77s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.35;.35;0" keyTimes="0;.2;.8;1" dur="6.47s" begin="-1.77s" repeatCount="indefinite"/>
+</circle>
+<circle cx="560.6" cy="260" r="7.6" fill="#fff" opacity="0">
+  <animate attributeName="cy" values="260;-20" dur="9.37s" begin="-1.81s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.35;.35;0" keyTimes="0;.2;.8;1" dur="9.37s" begin="-1.81s" repeatCount="indefinite"/>
+</circle>
+<circle cx="909" cy="260" r="3.5" fill="#fff" opacity="0">
+  <animate attributeName="cy" values="260;-20" dur="8.92s" begin="-3.07s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.35;.35;0" keyTimes="0;.2;.8;1" dur="8.92s" begin="-3.07s" repeatCount="indefinite"/>
+</circle>
+<circle cx="664.4" cy="260" r="11.3" fill="#fff" opacity="0">
+  <animate attributeName="cy" values="260;-20" dur="10.12s" begin="-1.68s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.35;.35;0" keyTimes="0;.2;.8;1" dur="10.12s" begin="-1.68s" repeatCount="indefinite"/>
+</circle>
+<circle cx="405.6" cy="260" r="5.6" fill="#fff" opacity="0">
+  <animate attributeName="cy" values="260;-20" dur="8.92s" begin="-3.78s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.35;.35;0" keyTimes="0;.2;.8;1" dur="8.92s" begin="-3.78s" repeatCount="indefinite"/>
+</circle>
+<circle cx="332.6" cy="260" r="7.8" fill="#fff" opacity="0">
+  <animate attributeName="cy" values="260;-20" dur="10.91s" begin="-2.54s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.35;.35;0" keyTimes="0;.2;.8;1" dur="10.91s" begin="-2.54s" repeatCount="indefinite"/>
+</circle>
+<circle cx="906.5" cy="260" r="7.1" fill="#fff" opacity="0">
+  <animate attributeName="cy" values="260;-20" dur="12.9s" begin="-8.19s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.35;.35;0" keyTimes="0;.2;.8;1" dur="12.9s" begin="-8.19s" repeatCount="indefinite"/>
+</circle>
+<circle cx="634.3" cy="260" r="7.6" fill="#fff" opacity="0">
+  <animate attributeName="cy" values="260;-20" dur="10.04s" begin="-6.92s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.35;.35;0" keyTimes="0;.2;.8;1" dur="10.04s" begin="-6.92s" repeatCount="indefinite"/>
+</circle>
+
+  <g transform="translate(90 50)"><path d="M0 -8 L2 -2 L8 0 L2 2 L0 8 L-2 2 L-8 0 L-2 -2 Z" fill="#fff">
+  <animate attributeName="opacity" values="0;1;0" dur="2s" begin="0s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="scale" values=".4;1.2;.4" dur="2s" begin="0s" repeatCount="indefinite"/>
+</path></g>
+<g transform="translate(210 180)"><path d="M0 -8 L2 -2 L8 0 L2 2 L0 8 L-2 2 L-8 0 L-2 -2 Z" fill="#fff">
+  <animate attributeName="opacity" values="0;1;0" dur="2.7s" begin="-0.45s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="scale" values=".4;1.2;.4" dur="2.7s" begin="-0.45s" repeatCount="indefinite"/>
+</path></g>
+<g transform="translate(330 40)"><path d="M0 -8 L2 -2 L8 0 L2 2 L0 8 L-2 2 L-8 0 L-2 -2 Z" fill="#fff">
+  <animate attributeName="opacity" values="0;1;0" dur="3.4s" begin="-0.9s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="scale" values=".4;1.2;.4" dur="3.4s" begin="-0.9s" repeatCount="indefinite"/>
+</path></g>
+<g transform="translate(690 45)"><path d="M0 -8 L2 -2 L8 0 L2 2 L0 8 L-2 2 L-8 0 L-2 -2 Z" fill="#fff">
+  <animate attributeName="opacity" values="0;1;0" dur="2s" begin="-1.35s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="scale" values=".4;1.2;.4" dur="2s" begin="-1.35s" repeatCount="indefinite"/>
+</path></g>
+<g transform="translate(800 170)"><path d="M0 -8 L2 -2 L8 0 L2 2 L0 8 L-2 2 L-8 0 L-2 -2 Z" fill="#fff">
+  <animate attributeName="opacity" values="0;1;0" dur="2.7s" begin="-1.8s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="scale" values=".4;1.2;.4" dur="2.7s" begin="-1.8s" repeatCount="indefinite"/>
+</path></g>
+<g transform="translate(915 60)"><path d="M0 -8 L2 -2 L8 0 L2 2 L0 8 L-2 2 L-8 0 L-2 -2 Z" fill="#fff">
+  <animate attributeName="opacity" values="0;1;0" dur="3.4s" begin="-2.25s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="scale" values=".4;1.2;.4" dur="3.4s" begin="-2.25s" repeatCount="indefinite"/>
+</path></g>
+<g transform="translate(560 205)"><path d="M0 -8 L2 -2 L8 0 L2 2 L0 8 L-2 2 L-8 0 L-2 -2 Z" fill="#fff">
+  <animate attributeName="opacity" values="0;1;0" dur="2s" begin="-2.7s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="scale" values=".4;1.2;.4" dur="2s" begin="-2.7s" repeatCount="indefinite"/>
+</path></g>
+<g transform="translate(140 120)"><path d="M0 -8 L2 -2 L8 0 L2 2 L0 8 L-2 2 L-8 0 L-2 -2 Z" fill="#fff">
+  <animate attributeName="opacity" values="0;1;0" dur="2.7s" begin="-3.15s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="scale" values=".4;1.2;.4" dur="2.7s" begin="-3.15s" repeatCount="indefinite"/>
+</path></g>
+
+  <path d="M0 200 q62.5 -16 125 0 t125 0 q62.5 -16 125 0 t125 0 q62.5 -16 125 0 t125 0 q62.5 -16 125 0 t125 0 q62.5 -16 125 0 t125 0 q62.5 -16 125 0 t125 0 q62.5 -16 125 0 t125 0 q62.5 -16 125 0 t125 0 V240 H0 Z" fill="#fff" opacity=".14">
+    <animateTransform attributeName="transform" type="translate" values="0 0;-500 0" dur="7s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 212 q50 -12 100 0 t100 0 q50 -12 100 0 t100 0 q50 -12 100 0 t100 0 q50 -12 100 0 t100 0 q50 -12 100 0 t100 0 q50 -12 100 0 t100 0 q50 -12 100 0 t100 0 q50 -12 100 0 t100 0 q50 -12 100 0 t100 0 q50 -12 100 0 t100 0 V240 H0 Z" fill="#fff" opacity=".12">
+    <animateTransform attributeName="transform" type="translate" values="-400 0;0 0" dur="5s" repeatCount="indefinite"/>
+  </path>
+</g>
+<g filter="url(#shadow)">
+  <g class="pop"><text class="t hi" x="470" y="128" text-anchor="middle">Hi, I'm Kaito!</text></g>
+  <g transform="translate(728 108)"><text class="t" font-size="52" text-anchor="middle" dominant-baseline="middle">👋
+    <animateTransform attributeName="transform" type="rotate" values="0;18;-8;18;0;0" keyTimes="0;.12;.24;.36;.48;1" dur="2.4s" repeatCount="indefinite"/></text></g>
+  <g class="pop2"><text class="t sub" x="500" y="178" text-anchor="middle">Engineer @ ABI Inc.  ·  Python  ·  Lua  ·  dotfiles enthusiast</text></g>
+</g>
+</svg>
