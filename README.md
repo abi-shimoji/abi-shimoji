@@ -16,7 +16,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=abi-shimoji&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abi-shimoji&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
-</p>
