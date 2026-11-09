@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" width="1000" height="240" role="img" aria-label="Hi, I'm Kaito">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" width="1000" height="240" role="img" aria-label="Hi, I'm abi-shimoji">
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0" stop-color="#7f5af0"><animate attributeName="stop-color" values="#7f5af0;#ff6ac1;#ff9f43;#2cb67d;#7f5af0" dur="16s" repeatCount="indefinite"/></stop>
@@ -131,8 +131,8 @@
   </path>
 </g>
 <g filter="url(#shadow)">
-  <g class="pop"><text class="t hi" x="470" y="128" text-anchor="middle">Hi, I'm Kaito!</text></g>
-  <g transform="translate(728 108)"><text class="t" font-size="52" text-anchor="middle" dominant-baseline="middle">👋
+  <g class="pop"><text class="t hi" x="438" y="128" text-anchor="middle">Hi, I'm abi-shimoji!</text></g>
+  <g transform="translate(768 106)"><text class="t" font-size="52" text-anchor="middle" dominant-baseline="middle">👋
     <animateTransform attributeName="transform" type="rotate" values="0;18;-8;18;0;0" keyTimes="0;.12;.24;.36;.48;1" dur="2.4s" repeatCount="indefinite"/></text></g>
   <g class="pop2"><text class="t sub" x="500" y="178" text-anchor="middle">Engineer @ ABI Inc.  ·  Python  ·  Lua  ·  dotfiles enthusiast</text></g>
 </g>

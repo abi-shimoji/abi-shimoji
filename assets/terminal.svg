@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 374" width="820" height="374" role="img" aria-label="Terminal: whoami, Kaito Shimoji, engineer at ABI Inc.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 374" width="820" height="374" role="img" aria-label="Terminal: whoami, abi-shimoji, engineer at ABI Inc.">
 <defs><clipPath id="c0"><rect x="0" y="58" height="26" width="0">
-  <animate attributeName="width" values="0;0;147.5;204.5;237;237;0;0" keyTimes="0;0.0444;0.0454;0.0678;0.0688;0.97;0.971;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+  <animate attributeName="width" values="0;0;233;290;322.5;322.5;0;0" keyTimes="0;0.0444;0.0454;0.0678;0.0688;0.97;0.971;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
 <clipPath id="c2"><rect x="0" y="110" height="26" width="0">
-  <animate attributeName="width" values="0;0;147.5;271;303.5;303.5;0;0" keyTimes="0;0.1067;0.1077;0.1572;0.1582;0.97;0.971;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+  <animate attributeName="width" values="0;0;233;356.5;389;389;0;0" keyTimes="0;0.1067;0.1077;0.1572;0.1582;0.97;0.971;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
 <clipPath id="c4"><rect x="0" y="162" height="26" width="0">
-  <animate attributeName="width" values="0;0;147.5;280.5;313;313;0;0" keyTimes="0;0.1961;0.1971;0.2506;0.2516;0.97;0.971;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+  <animate attributeName="width" values="0;0;233;366;398.5;398.5;0;0" keyTimes="0;0.1961;0.1971;0.2506;0.2516;0.97;0.971;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
 <clipPath id="c8"><rect x="0" y="266" height="26" width="0">
-  <animate attributeName="width" values="0;0;147.5;252;284.5;284.5;0;0" keyTimes="0;0.3172;0.3182;0.36;0.361;0.97;0.971;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+  <animate attributeName="width" values="0;0;233;337.5;370;370;0;0" keyTimes="0;0.3172;0.3182;0.36;0.361;0.97;0.971;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
 </defs>
 <style>
   .m { font-family: ui-monospace, "Cascadia Code", "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; font-size: 16px; }
@@ -15,22 +15,22 @@
 <path d="M.5 14.5 a14 14 0 0 1 14 -14 H805.5 a14 14 0 0 1 14 14 V38 H.5 Z" fill="#161b22"/>
 <line x1="0" y1="38" x2="820" y2="38" stroke="#30363d"/>
 <circle cx="24" cy="19" r="6.5" fill="#ff5f57"/><circle cx="46" cy="19" r="6.5" fill="#febc2e"/><circle cx="68" cy="19" r="6.5" fill="#28c840"/>
-<text x="410" y="24" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, Consolas, monospace" font-size="13">kaito@abi: ~ — zsh</text>
-<text class="m" x="24" y="78" clip-path="url(#c0)"><tspan fill="#7ee787">kaito@abi</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#f0f6fc">whoami</tspan></text>
+<text x="410" y="24" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, Consolas, monospace" font-size="13">abi-shimoji@github: ~ — zsh</text>
+<text class="m" x="24" y="78" clip-path="url(#c0)"><tspan fill="#7ee787">abi-shimoji@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#f0f6fc">whoami</tspan></text>
 <rect y="63" width="9" height="19" fill="#f0f6fc" opacity="0">
-  <animate attributeName="x" values="0;0;147.5;204.5;204.5" keyTimes="0;0.0444;0.0454;0.0678;1" dur="18s" repeatCount="indefinite"/>
+  <animate attributeName="x" values="0;0;233;290;290" keyTimes="0;0.0444;0.0454;0.0678;1" dur="18s" repeatCount="indefinite"/>
   <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0444;0.0872" calcMode="discrete" dur="18s" repeatCount="indefinite"/></rect>
-<text class="m" x="24" y="104" opacity="0"><tspan fill="#f0f6fc" font-weight="700">Kaito Shimoji</tspan><tspan fill="#8b949e"> — engineer @ </tspan><tspan fill="#ff7ab6">ABI Inc.</tspan><tspan fill="#8b949e"> (Japan)</tspan>
+<text class="m" x="24" y="104" opacity="0"><tspan fill="#f0f6fc" font-weight="700">abi-shimoji</tspan><tspan fill="#8b949e"> — engineer @ </tspan><tspan fill="#ff7ab6">ABI Inc.</tspan><tspan fill="#8b949e"> (Japan)</tspan>
   <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0928;0.97" calcMode="discrete" dur="18s" repeatCount="indefinite"/></text>
-<text class="m" x="24" y="130" clip-path="url(#c2)"><tspan fill="#7ee787">kaito@abi</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#f0f6fc">ls ~/projects</tspan></text>
+<text class="m" x="24" y="130" clip-path="url(#c2)"><tspan fill="#7ee787">abi-shimoji@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#f0f6fc">ls ~/projects</tspan></text>
 <rect y="115" width="9" height="19" fill="#f0f6fc" opacity="0">
-  <animate attributeName="x" values="0;0;147.5;271;271" keyTimes="0;0.1067;0.1077;0.1572;1" dur="18s" repeatCount="indefinite"/>
+  <animate attributeName="x" values="0;0;233;356.5;356.5" keyTimes="0;0.1067;0.1077;0.1572;1" dur="18s" repeatCount="indefinite"/>
   <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1067;0.1767" calcMode="discrete" dur="18s" repeatCount="indefinite"/></rect>
 <text class="m" x="24" y="156" opacity="0"><tspan fill="#79c0ff">cve-watcher/  tech-talk-slides/  dotfiles-windows/  dotfiles-wsl/  obsidian/</tspan>
   <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1822;0.97" calcMode="discrete" dur="18s" repeatCount="indefinite"/></text>
-<text class="m" x="24" y="182" clip-path="url(#c4)"><tspan fill="#7ee787">kaito@abi</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#f0f6fc">cat ./todo.txt</tspan></text>
+<text class="m" x="24" y="182" clip-path="url(#c4)"><tspan fill="#7ee787">abi-shimoji@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#f0f6fc">cat ./todo.txt</tspan></text>
 <rect y="167" width="9" height="19" fill="#f0f6fc" opacity="0">
-  <animate attributeName="x" values="0;0;147.5;280.5;280.5" keyTimes="0;0.1961;0.1971;0.2506;1" dur="18s" repeatCount="indefinite"/>
+  <animate attributeName="x" values="0;0;233;366;366" keyTimes="0;0.1961;0.1971;0.2506;1" dur="18s" repeatCount="indefinite"/>
   <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1961;0.27" calcMode="discrete" dur="18s" repeatCount="indefinite"/></rect>
 <text class="m" x="24" y="208" opacity="0"><tspan fill="#ffa657">[x]</tspan><tspan fill="#c9d1d9"> automate the boring stuff with Python</tspan>
   <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.2756;0.97" calcMode="discrete" dur="18s" repeatCount="indefinite"/></text>
@@ -38,14 +38,14 @@
   <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.2894;0.97" calcMode="discrete" dur="18s" repeatCount="indefinite"/></text>
 <text class="m" x="24" y="260" opacity="0"><tspan fill="#ffa657">[ ]</tspan><tspan fill="#c9d1d9"> finish my dotfiles </tspan><tspan fill="#8b949e">(narrator: they were never finished)</tspan>
   <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.3033;0.97" calcMode="discrete" dur="18s" repeatCount="indefinite"/></text>
-<text class="m" x="24" y="286" clip-path="url(#c8)"><tspan fill="#7ee787">kaito@abi</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#f0f6fc">echo $MOTTO</tspan></text>
+<text class="m" x="24" y="286" clip-path="url(#c8)"><tspan fill="#7ee787">abi-shimoji@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#f0f6fc">echo $MOTTO</tspan></text>
 <rect y="271" width="9" height="19" fill="#f0f6fc" opacity="0">
-  <animate attributeName="x" values="0;0;147.5;252;252" keyTimes="0;0.3172;0.3182;0.36;1" dur="18s" repeatCount="indefinite"/>
+  <animate attributeName="x" values="0;0;233;337.5;337.5" keyTimes="0;0.3172;0.3182;0.36;1" dur="18s" repeatCount="indefinite"/>
   <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.3172;0.3794" calcMode="discrete" dur="18s" repeatCount="indefinite"/></rect>
 <text class="m" x="24" y="312" opacity="0"><tspan fill="#d2a8ff">✨ Have fun, ship small, share what you learn.</tspan>
   <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.385;0.97" calcMode="discrete" dur="18s" repeatCount="indefinite"/></text>
-<g opacity="0"><text class="m" x="24" y="338"><tspan fill="#7ee787">kaito@abi</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan></text>
-  <rect x="147.5" y="323" width="9" height="19" fill="#f0f6fc"><animate attributeName="opacity" values="1;0" dur="1s" calcMode="discrete" repeatCount="indefinite"/></rect>
+<g opacity="0"><text class="m" x="24" y="338"><tspan fill="#7ee787">abi-shimoji@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan></text>
+  <rect x="233" y="323" width="9" height="19" fill="#f0f6fc"><animate attributeName="opacity" values="1;0" dur="1s" calcMode="discrete" repeatCount="indefinite"/></rect>
   <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.41;0.97" calcMode="discrete" dur="18s" repeatCount="indefinite"/></g>
 
 </svg>

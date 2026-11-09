@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Hi, I'm Kaito!" />
+  <img src="./assets/header.svg" width="100%" alt="Hi, I'm abi-shimoji!" />
 </p>
 
 <p align="center">
@@ -14,13 +14,13 @@
 </p>
 
 <p align="center">
-  <img src="./assets/terminal.svg" width="100%" alt="whoami → Kaito Shimoji, engineer @ ABI Inc." />
+  <img src="./assets/terminal.svg" width="100%" alt="whoami → abi-shimoji, engineer @ ABI Inc." />
 </p>
 
 ## 🧑‍💻 About me
 
 ```python
-class KaitoShimoji:
+class AbiShimoji:
     company   = "ABI Inc."            # 🏢 https://github.com/abi-techinnovation
     location  = "Japan 🇯🇵"
     speaks    = ["Python", "Lua", "HTML"]
